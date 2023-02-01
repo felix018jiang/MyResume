@@ -1,6 +1,2 @@
-Thanks for downloading this template!
-
-Template Name: MyResume
-Template URL: https://bootstrapmade.com/free-html-bootstrap-template-my-resume/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Thanks for checking Yutong Jiang's Portfolio!
+This is a collection of all my course works including cartography works, two-dimensional designs and web maps.
