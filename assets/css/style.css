@@ -986,6 +986,9 @@ section {
 .text-muted{
   padding-left: 20px;
 }
+.text-muted2{
+  padding-left: 250px;
+}
 
 @-webkit-keyframes animate-loading {
   0% {
